@@ -1,0 +1,6 @@
+101,Python Programming,Guido Van Rossum,10
+102,Java Programming,James Gosling,8
+103,C Programming,Dennis Ritchie,6
+104,Data Structures,Seymour Lipschutz,6
+105,Web development,Jon Duckett,8
+106,Machine Learning,Tom Mitchell,4
